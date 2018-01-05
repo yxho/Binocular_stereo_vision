@@ -1,0 +1,5 @@
+程序无法正常启动0xc000007b原因
+　　
+　　1、电脑没有安装DirectX9或者DirectX 9.0 组件损坏；
+　　2、电脑没有安装Microsoft Visual C++
+　　3、电脑上没有安装.net组件
